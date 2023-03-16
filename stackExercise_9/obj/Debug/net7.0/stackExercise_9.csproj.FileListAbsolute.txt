@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\bin\Debug\net7.0\stackExercise_9.exe
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\bin\Debug\net7.0\stackExercise_9.deps.json
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\bin\Debug\net7.0\stackExercise_9.runtimeconfig.json
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\bin\Debug\net7.0\stackExercise_9.dll
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\bin\Debug\net7.0\stackExercise_9.pdb
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\stackExercise_9.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\stackExercise_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\stackExercise_9.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\stackExercise_9.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\stackExercise_9.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\stackExercise_9.dll
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\refint\stackExercise_9.dll
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\stackExercise_9.pdb
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\stackExercise_9.genruntimeconfig.cache
+C:\Users\vitor\Desktop\Stack_With_C_Sharp\stackExercise_9\obj\Debug\net7.0\ref\stackExercise_9.dll
